@@ -6,8 +6,6 @@
 
 /*Feito por
 Maicon Almeida Mian RA 2023.1.08.013
-Caio Henrique Costa de Matoa RA 2023.1.08.002
-Nycole Paulino dos Santos RA 2023.1.08.044
 */
 
 //guarda as dimensões do tabuleiro
